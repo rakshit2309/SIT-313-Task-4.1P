@@ -1,6 +1,6 @@
-// ArticleName.js
+
 import React from 'react';
-import './ArticleName.css'; // Import the corresponding CSS
+import './ArticleName.css'; 
 
 const ArticleName = ({ name }) => {
   return (
