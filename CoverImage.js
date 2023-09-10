@@ -5,7 +5,7 @@ const CoverImage = () => {
   return (
     <div className="cover-image-container">
       <img
-        src="/deakin1.jpg" // Replace with the actual image path
+        src="/deakin1.jpg" 
         alt="Cover"
         className="cover-image"
       />
