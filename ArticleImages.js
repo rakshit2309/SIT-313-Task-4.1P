@@ -44,22 +44,6 @@ const ArticleImages = () => {
         <button className="see-all-button">See All Articles</button>
       </div>
 
-      {/* TUTORIALS
-      <h2 className="featured-title">FEATURED TUTORIALS</h2>
-      <div className="article-images">
-        {articleData.map((article, index) => (
-          <div key={index} className="image-container">
-            <img src="/deakin1.jpg" alt={article.name} className="small-image" />
-            <ArticleName name={article.name} />
-            <ArticleDescription description={article.description} />
-            <hr />
-            <ArticleContent author={article.author} />
-          </div>
-        ))}
-      </div>
-      <div className="see-all-container">
-        <button className="see-all-button">See All tutorials</button>
-      </div> */}
     </>
   );
 };
