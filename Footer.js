@@ -1,9 +1,7 @@
 import React from 'react';
 import './Footer.css';
-
 const Footer = () => {
   return (
-    
     <div className="footer">
       <div className="footer-item explore">
         EXPLORE
@@ -30,12 +28,7 @@ const Footer = () => {
           <a href="https://www.twitter.com"><img src="/twitter.png" alt="Twitter" /></a>
         </div>
       </div>
-      
     </div>
-
-
-
-    
   );
 };
 
