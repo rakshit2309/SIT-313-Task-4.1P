@@ -1,6 +1,5 @@
-// ArticleDescription.js
 import React from 'react';
-import './ArticleDescription.css'; // Import the corresponding CSS
+import './ArticleDescription.css'; 
 
 const ArticleDescription = ({ description }) => {
   return (
